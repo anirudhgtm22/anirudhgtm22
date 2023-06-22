@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @anirudhgtm22
 - 👀 I’m interested in programmming
 - 🌱 I’m currently learning C&C++,Python,Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me e-mail.
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me - anirudhgtm22@gmail.com
 
 <!---
 anirudhgtm22/anirudhgtm22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
